@@ -1,0 +1,6 @@
+{
+  "name": "EvoPlan",
+  "description": "Piattaforma SaaS AI per creare, validare ed evolvere iterativamente il tuo business plan, dalla prima idea alla scala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
